@@ -14,6 +14,7 @@ by Clare Tubridy.
 
 ## **Background**
 ### Tasks
+This repository showcases Python implementations for diverse mathematical and data analysis tasks. Firstly, I've investigated the Collatz conjecture, verifying its sequence property for the initial 10,000 positive integers. Moving on, the repository explores the renowned penguins data set, providing an overview of variable types and suggesting Python modeling strategies. I've also delved into probability distributions for each variable in the dataset, aligning with numpy's random distributions list. The repository includes an exploration of entropy concerning coin flips and heads probability. Finally, individual plots for each variable in the penguins dataset provide a visual understanding of their distributions. 
 
 ### Project
 The **Iris flower data set**, otherwise known as **Fishers Iris data set**, is a multivariate data set used and made famous by the British statistcian and biologist [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) in his 1936 paper *The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis*. [Multivariate statistics](https://en.wikipedia.org/wiki/Multivariate_statistics) is a branch of statistics that deals with the analysis of multiple variables at the same time. It involves studying various types of multivariate analysis and their relationships with each other. This data set has since been widely used for pattern recognition and classification tasks in various fields, including machine learning, statistics, and biology. 
