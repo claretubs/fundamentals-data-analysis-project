@@ -17,7 +17,7 @@ by Clare Tubridy.
 This repository showcases Python implementations for diverse mathematical and data analysis tasks. Firstly, I've investigated the Collatz conjecture, verifying its sequence property for the initial 10,000 positive integers. Moving on, the repository explores the renowned penguins data set, providing an overview of variable types and suggesting Python modeling strategies. I've also delved into probability distributions for each variable in the dataset, aligning with numpy's random distributions list. The repository includes an exploration of entropy concerning coin flips and heads probability. Finally, individual plots for each variable in the penguins dataset provide a visual understanding of their distributions. 
 
 ### Project
-
+A comprehensive analysis was conducted on the Iris Flower dataset. Each variable within the dataset was systematically classified in the notebook. For numerical variables, appropriate summary statistics such as mean, median, and standard deviation were calculated. Categorical variables were summarized using counts and percentages. Suitable plots for visual representation of these variables were choosen. Some of these plots include histograms, box plots, and scatter plots. The project aims to provide a well-documented and insightful examination of the dataset, highlighting key patterns and characteristics.
 
 ## How to Run Code
 1. Install Ananconda.
